@@ -1,2 +1,2 @@
 # Algorithm
-자료구조
+Data Structure & Algorithm
